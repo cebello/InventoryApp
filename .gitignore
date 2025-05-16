@@ -130,3 +130,4 @@ app.*.symbols
 /.idea/material_theme_project_new.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+/.env
