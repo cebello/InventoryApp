@@ -117,3 +117,17 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+/macos/
+/web/
+/windows/
+/ios/
+/linux/
+/.idea/caches/deviceStreaming.xml
+/.idea/libraries/Dart_SDK.xml
+/.idea/libraries/KotlinJavaRuntime.xml
+/.idea/runConfigurations/main_dart.xml
+/.idea/.gitignore
+/.idea/material_theme_project_new.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.env
